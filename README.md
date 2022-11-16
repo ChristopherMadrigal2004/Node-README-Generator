@@ -17,33 +17,6 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Usage
 ![Capture](https://user-images.githubusercontent.com/112152406/202123576-4033db75-50ee-4130-8b02-3e9fa9553f2f.PNG)
 
-## Example
-# Node-README-Generator
-*[Installation](#intallation)
-*[Usage] (#usage)
-*[contribution] (#contribution)
-*[Credits] (#Credits)
-*[License](#License)
-#Installation
-To install app you need to use node Js in the terminal
-##Usage
-Refer to top
-##contribution
-undefined
-###instructions
-Right click "index.js" then "open with intergrated terminal"
-##Credits
-undefined
-##license
-N/A
- 
-#Contact
-*Github:ChristopherMadrigal2004
-*Linkedin:undefined
-*E-mail : Chrismalva@gmail.com
-
-
-
 ## Credits
 
 - just me...:)
