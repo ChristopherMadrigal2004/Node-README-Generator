@@ -16,11 +16,11 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+- Provide instructions and examples for use. Include screenshots as needed.
 
 ## Credits
 
--just me...:)
+- just me...:)
 
 ## License
 
