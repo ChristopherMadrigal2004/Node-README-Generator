@@ -12,7 +12,7 @@ Provide a short description explaining the what, why, and how of your project. U
     -More about Node.js and inquerir
 
 ## Installation
--Just need Node.js with VS/code
+- Just need Node.js with VS/code
 
 ## Usage
 
